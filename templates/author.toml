@@ -1,0 +1,14 @@
+# required
+name = "Dummy Dude"
+img = "dummy.jpg"
+bio = "Dummy bio stuff bla"
+url = "http://somewebsite.whatever/"
+
+# optional (to remove something just leave the two quotation marks)
+facebook = "http://favebook.com/"
+googleplus = "http://plus.goble.com/"
+twitter = "http://tweetter.com"
+linkedin = "http://linkedout.com/"
+email = "nomail@really.whatever"
+instagram = "http://notsoinstagram.com/"
+pintrest = "http://unpintrest.com/"
