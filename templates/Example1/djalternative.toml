@@ -1,0 +1,14 @@
+# required
+name = "djalternative"
+img = "djalternative.jpg"
+bio = "Might be an alternative DJ"
+url = "http://fourohfour.games/"
+
+# optional (to remove something just leave the two quotation marks)
+facebook = ""
+googleplus = ""
+twitter = ""
+linkedin = ""
+email = ""
+instagram = ""
+pintrest = ""
